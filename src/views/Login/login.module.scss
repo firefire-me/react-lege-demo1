@@ -1,0 +1,37 @@
+.loginPage{
+    width: 500px;
+   margin: 250px  auto;
+
+
+
+   border-color: #1890ff ;
+  
+
+   .captchaBox{
+    display: flex;
+    .captchaImg{
+        margin-left: 20px ;
+        cursor: pointer;
+    }
+   }
+
+ 
+
+   .loginBtn{
+    height: 38px;
+
+   }
+
+    
+}
+
+
+.title{
+    h1{
+
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+}

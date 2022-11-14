@@ -1,0 +1,36 @@
+.p1{
+    position: relative;
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    p{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+       
+        background: rgb(161, 63, 63);
+
+    }
+}
+
+
+
+.box1{
+    background-color: antiquewhite;
+    color: royalblue;
+
+    border: 5px blue solid;
+    border-right: 5px red solid;
+    border-left: 8px blue solid;
+
+
+
+
+}
